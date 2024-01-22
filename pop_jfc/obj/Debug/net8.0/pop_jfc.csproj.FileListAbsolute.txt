@@ -12,3 +12,4 @@ C:\Users\prof\Desktop\Javier Fernández Cano\Visual Studio\pop_jfc\pop_jfc\obj\D
 C:\Users\prof\Desktop\Javier Fernández Cano\Visual Studio\pop_jfc\pop_jfc\obj\Debug\net8.0\pop_jfc.pdb
 C:\Users\prof\Desktop\Javier Fernández Cano\Visual Studio\pop_jfc\pop_jfc\obj\Debug\net8.0\pop_jfc.genruntimeconfig.cache
 C:\Users\prof\Desktop\Javier Fernández Cano\Visual Studio\pop_jfc\pop_jfc\obj\Debug\net8.0\ref\pop_jfc.dll
+C:\Users\prof\Desktop\Javier Fernández Cano\Visual Studio\pop_jfc\pop_jfc\obj\Debug\net8.0\pop_jfc.sourcelink.json
