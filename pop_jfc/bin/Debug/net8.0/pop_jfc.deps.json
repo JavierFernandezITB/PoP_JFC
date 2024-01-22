@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "pop_jfc/1.0.0": {
+        "runtime": {
+          "pop_jfc.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "pop_jfc/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
